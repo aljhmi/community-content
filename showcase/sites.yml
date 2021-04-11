@@ -776,3 +776,13 @@
     - Puppeteer
   made_by: Phantas Weng (F2E@OwlTing)
   made_by_url: https://phantas.tw/
+- title: Bandar Design
+  url: https://bandar.design/blog
+  description: Personal blog about design, UX, UI, Frontend development.
+  categories:
+    - Blog
+  frontend:
+    - Gatsby.js
+    - React.js
+  made_by: Bandar Abdullah
+  made_by_url: https://bandar.design/about
